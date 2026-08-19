@@ -94,7 +94,7 @@ Builds are automatically published to Github Releases when a tag is created in G
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=OneFolderApp/OneFolder&type=Date)](https://star-history.com/#OneFolderApp/OneFolder&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=OneFolderApp/OneFolder&type=Date)](https://star-history.dera.page/#OneFolderApp/OneFolder&Date)
 
 ### Releasing
 
